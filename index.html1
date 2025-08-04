@@ -1,0 +1,83 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Repa Enterprise - Ship Chandler</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #004080;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #e0e0e0;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #004080;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #004080;
+    }
+    footer {
+      background: #004080;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Repa Enterprise</h1>
+    <p>Ship Chandler - Provision, Bonded, Store and Bunker Supplier</p>
+  </header>  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About Us</a>
+    <a href="#services">Services</a>
+    <a href="#products">Products</a>
+    <a href="#contact">Contact</a>
+  </nav>  <section id="home">
+    <h2>Welcome to Repa Enterprise</h2>
+    <p>We are trusted ship chandlers at Chattogram Port, offering high-quality supply and professional support for all kinds of vessels.</p>
+  </section>  <section id="about">
+    <h2>About Us</h2>
+    <p>Repa Enterprise was founded in 1995 with a strong commitment to providing top-class supply services to merchant ships at the port of Chattogram. We believe in reliability, speed, and professionalism.</p>
+  </section>  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Provision Supply</li>
+      <li>Bonded Store Supply</li>
+      <li>Deck & Engine Store Supply</li>
+      <li>Bunker Delivery Arrangement</li>
+    </ul>
+  </section>  <section id="products">
+    <h2>Our Products</h2>
+    <p>We provide a wide range of products including fresh vegetables, meat, dry foods, safety items, cleaning materials, engine spare parts and more.</p>
+  </section>  <section id="contact">
+    <h2>Contact Us</h2>
+    <p><strong>Phone:</strong> 01620870124, 01819306838</p>
+    <p><strong>Email:</strong> repaenterprise1995@gmail.com</p>
+    <p><strong>Location:</strong> M.Q. Plaza, 213 Fakirhat Road, Nearby Chattogram Port, Bandar-Chattogram.</p>
+  </section>  <footer>
+    <p>&copy; 2025 Repa Enterprise. All rights reserved.</p>
+  </footer>
+</body>
+</html>
